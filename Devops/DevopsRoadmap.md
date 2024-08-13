@@ -11,7 +11,7 @@
    - Focus on Linux: Linux is a critical component in many DevOps environments. Gain expertise in Linux systems to manage servers, automate tasks, and understand underlying system operations.
    - YouTube Content:
      - [Linux Academy (now part of A Cloud Guru)](https://www.youtube.com/c/ACloudGuru) - Features a range of tutorials on Linux, including system administration and DevOps tools.
-     - [The Linux Foundation](https://www.youtube.com/c/TheLinuxFoundation) - Offers detailed Linux tutorials and training, useful for both beginners and advanced users.
+     - [The Linux Foundation](https://www.youtube.com/@LinuxfoundationOrg) - Offers detailed Linux tutorials and training, useful for both beginners and advanced users.
 
 3. Networking
    - Learn about networking: Understand network protocols, firewalls, and security practices essential for maintaining and securing cloud infrastructure.
