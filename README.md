@@ -4,8 +4,10 @@
 <div style="display: flex; justify-content: center; align-items: center;">
 
   <div style="margin: 10px; text-align: center;">
-  <em>RoadMap for devops </em>
-  <em>Click on the image below to go to your favorite roadmap</em> 👇
+ <strong><em>Roadmap for DevOps</em></strong>
+  <br />
+  <strong><em>Click on the image below to go to your favorite roadmap</em></strong> 👇
+  <br />
     <a href="Devops/DevopsRoadmap.md">
       <img src="Devops/Devops.png?raw=true" alt="2022" style="border: 2px solid #555; border-radius: 8px; width: 100%; max-width: 400px;" />
     </a>
@@ -27,6 +29,5 @@
     </a>
     <br />
     <em>Year 2024 - Community Edition: 90 Sessions</em>
-  </div> --> -->
-
+  </div> --> 
 </div>
