@@ -33,19 +33,19 @@
 6. Infrastructure as Code
    - Learn Terraform or AWS CloudFormation: Infrastructure as Code (IaC) tools help you automate the provisioning and management of cloud infrastructure using code.
    - YouTube Content:
-     - [Terraform for Beginners](https://www.youtube.com/watch?v=7G3o2DNd8_U) - Introduction to Terraform, an open-source IaC tool.
+     - [Terraform for Beginners](https://www.youtube.com/watch?v=7xngnjfIlK4) - Introduction to Terraform, an open-source IaC tool.
      - [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) - Offers in-depth tutorials on Terraform and other programming topics.
 
 7. Configuration Management
    - Tools like Ansible, Chef, and Puppet: Configuration management tools automate the setup and maintenance of system configurations.
    - YouTube Content:
      - [Ansible Tutorials by Red Hat](https://www.youtube.com/user/redhatvideos) - Official Red Hat channel with Ansible tutorials.
-     - [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLmE) - Provides comprehensive content on Ansible and other configuration management tools.
+     - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) - Provides comprehensive content on Ansible and other configuration management tools.
 
 8. Containerization and Orchestration
    - Learn Docker and Kubernetes: Containerization tools like Docker package applications into containers, while Kubernetes orchestrates and manages these containers at scale.
    - YouTube Content:
-     - [KodeKloud](https://www.youtube.com/channel/UC4JXo7C7c5dL2p5T2Jvl5FQ) - Offers extensive tutorials on Docker and Kubernetes.
+     - [KodeKloud](https://www.youtube.com/@KodeKloud) - Offers extensive tutorials on Docker and Kubernetes.
      - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - A complete guide to Docker, including installation and usage.
 
 9. Cloud Providers
@@ -56,13 +56,13 @@
 10. Monitoring and Logging
     - Tools like Prometheus, Grafana, and ELK Stack: Monitoring and logging tools help you track and visualize system performance and log data to troubleshoot and optimize applications.
     - YouTube Content:
-      - [Prometheus and Grafana](https://www.youtube.com/watch?v=nT1bLbCkRYg) - Learn how to set up and use Prometheus and Grafana.
+      - [Prometheus and Grafana](https://www.youtube.com/watch?v=h4Sl21AKiDg) - Learn how to set up and use Prometheus and Grafana.
       - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - Provides tutorials on monitoring tools and best practices.
 
 11. Kubernetes and Helm
     - Learn about Kubernetes and Helm: Kubernetes manages containerized applications, and Helm helps in managing Kubernetes applications with ease.
     - YouTube Content:
-      - [KodeKloud](https://www.youtube.com/channel/UC4JXo7C7c5dL2p5T2Jvl5FQ) - Detailed Kubernetes tutorials.
+      - [KodeKloud](https://www.youtube.com/@KodeKloud) - Detailed Kubernetes tutorials.
       - [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha) - Offers in-depth tutorials on Kubernetes and Helm.
 
 12. Soft Skills
