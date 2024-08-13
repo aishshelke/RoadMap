@@ -3,6 +3,7 @@
 1. Programming Languages
    - Python or Go: Start with a programming language that's widely used in DevOps. Python is known for its simplicity and readability, while Go is praised for its performance and efficiency in cloud-native applications.
    - YouTube Content:
+     - [TrainWithShubham](https://www.youtube.com/channel/UCmtrGFPYO_rv8RCUnGNsIdw) - Comprehensive guides on Python and Linux.
      - [Abhishek Veramalla](https://www.youtube.com/@AbhishekVeeramalla) - Offers excellent Python tutorials.
      - [Corey Schafer](https://www.youtube.com/user/schafer5) - Provides comprehensive tutorials on Python and other programming topics.
 
