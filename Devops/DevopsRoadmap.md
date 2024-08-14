@@ -46,6 +46,7 @@
 8. Containerization and Orchestration
    - Learn Docker and Kubernetes: Containerization tools like Docker package applications into containers, while Kubernetes orchestrates and manages these containers at scale.
    - YouTube Content:
+     - [TechTutorialswithPiyush](https://www.youtube.com/@TechTutorialswithPiyush) - for CKA tutorials
      - [KodeKloud](https://www.youtube.com/@KodeKloud) - Offers extensive tutorials on Docker and Kubernetes.
      - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - A complete guide to Docker, including installation and usage.
 
