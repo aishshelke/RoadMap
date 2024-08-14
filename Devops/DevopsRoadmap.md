@@ -16,7 +16,7 @@
 3. Networking
    - Learn about networking: Understand network protocols, firewalls, and security practices essential for maintaining and securing cloud infrastructure.
    - YouTube Content:
-     - [Networking Basics](https://www.youtube.com/watch?v=8RFZZvlgbHk) - A video that covers fundamental networking concepts.
+     - [Networking Basics](https://www.youtube.com/watch?v=qiQR5rTSshw) - A video that covers fundamental networking concepts.
      - [NetworkChuck](https://www.youtube.com/channel/UC2K1E6d7K5ys3bJvV03YJZA) - Provides engaging and fun tutorials on networking topics.
 
 4. Version Control
