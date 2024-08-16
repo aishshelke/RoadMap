@@ -28,7 +28,7 @@
 5. CI/CD Tools
    - Tools like Jenkins, GitLab CI, and GitHub Actions: Continuous Integration and Continuous Deployment (CI/CD) tools automate the process of integrating code changes and deploying them to production.
    - YouTube Content:
-     - [CI/CD with Jenkins](https://www.youtube.com/watch?v=ELdLz1qCdJQ) - Learn how to set up and manage CI/CD pipelines with Jenkins.
+     - [CI/CD with Jenkins](https://www.youtube.com/watch?v=FX322RVNGj4) - Learn how to set up and manage CI/CD pipelines with Jenkins.
      - [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLmE) - Offers detailed guides on various CI/CD tools.
 
 6. Infrastructure as Code
